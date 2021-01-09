@@ -3,8 +3,8 @@
 Projeto desenvolvido durante a semana DevSuperior 2.0 entre (04/01/2021 e 10/01/2021).
 
 Tecnologias:
-Java e Spring Boot
-ReactJS
+* Java e Spring Boot
+* ReactJS
 
 
 Bibliotecas utilizadas:
@@ -15,9 +15,7 @@ Bibliotecas utilizadas:
 * npm install leaflet react-leaflet
 * npm install -D @types/leaflet
 * npm install react-select @types/react-select
-
-# Necessário criar uma conta no MapBox
-Mapbox (mapas)
+* Necessário criar uma conta no MapBox (_API mapas)
 
 
 Referência:
