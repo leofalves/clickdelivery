@@ -8,13 +8,16 @@ ReactJS
 
 
 Bibliotecas utilizadas:
-npx create-react-app front-web --template typescript --use-npm
-npm install react-router-dom
-npm install @types/react-router-dom
-npm install axios
-npm install leaflet react-leaflet
-npm install -D @types/leaflet
-npm install react-select @types/react-select
+* npx create-react-app front-web --template typescript --use-npm
+* npm install react-router-dom
+* npm install @types/react-router-dom
+* npm install axios
+* npm install leaflet react-leaflet
+* npm install -D @types/leaflet
+* npm install react-select @types/react-select
+
+# Necessário criar uma conta no MapBox
+Mapbox (mapas)
 
 
 Referência:
