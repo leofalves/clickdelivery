@@ -14,6 +14,7 @@ npm install @types/react-router-dom
 npm install axios
 npm install leaflet react-leaflet
 npm install -D @types/leaflet
+npm install react-select @types/react-select
 
 
 Referência:
