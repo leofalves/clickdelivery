@@ -21,3 +21,9 @@ Bibliotecas utilizadas:
 
 Referência:
 https://github.com/devsuperior/sds2
+
+#Back-end
+* https://leofalves-clickdelivery.herokuapp.com/
+
+#Front-end:
+* https://leofalves-clickdelivery.netlify.app/
