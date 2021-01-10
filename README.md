@@ -15,6 +15,7 @@ Bibliotecas utilizadas:
 * npm install leaflet react-leaflet
 * npm install -D @types/leaflet
 * npm install react-select @types/react-select
+* npm install --save react-toastify react-toastify (https://fkhadra.github.io/react-toastify/introduction)
 * Necessário criar uma conta no MapBox (_API mapas)
 
 
