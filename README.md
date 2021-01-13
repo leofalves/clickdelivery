@@ -27,3 +27,8 @@ https://github.com/devsuperior/sds2
 
 #Front-end:
 * https://leofalves-clickdelivery.netlify.app/
+
+
+#Mobile
+* Dependências
+** Expo  \> npm install --global expo-cli
