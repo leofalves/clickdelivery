@@ -33,3 +33,5 @@ https://github.com/devsuperior/sds2
 * Dependências
 ** Expo  \> npm install --global expo-cli
 ** Expo  \> expo install @react-navigation/stack @react-native-community/masked-view react-native-screens react-native-gesture-handler @react-navigation/native expo-app-loading @expo-google-fonts/open-sans expo-font
+** Formatar Data (Day.Js) \> npm install dayjs --save
+** Formatar Preço (intl) \> npm install intl
